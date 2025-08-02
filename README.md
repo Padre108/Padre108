@@ -10,7 +10,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Padre108&color=blue)  
 ![GitHub Followers](https://img.shields.io/github/followers/Padre108?style=social)  
-![Top Language](https://img.shields.io/github/languages/top/Padre108?style=flat&color=informational)  
+![Top Language](https://img.shields.io/badge/Top%20Language-Python-3776AB?style=flat&logo=python&logoColor=white)  
 ![Tech Stack](https://img.shields.io/badge/Stack-Full%20Stack-blueviolet?style=flat&logo=vercel&logoColor=white)
 
 ---
